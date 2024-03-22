@@ -1,0 +1,28 @@
+.myselect{
+    width: 150px;
+}
+
+.div-cards{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+.div-btn {
+    display: flex;
+    justify-content: flex-end;
+    padding: 50px;
+    width: 100%;
+}
+
+/* .div-btn select {
+    align-self: flex-end;
+} */
+
+main {
+    display: flex;
+    flex-direction: column;
+
+}
+
